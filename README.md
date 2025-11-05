@@ -27,7 +27,7 @@ To compile the project yourself simply clone the repository and run make inside 
 
 ```
 git clone https://github.com/luna7111/turtledove-RC
-cd cub3d
+cd turtledove-RC
 make
 ```
 
